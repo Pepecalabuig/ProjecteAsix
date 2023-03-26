@@ -1,0 +1,29 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/*color fondo pagina*/
+body{
+    background-color: rgb(200, 200, 200);
+}
+
+.caja{
+    background-color: rgb(200, 200, 200);
+    border: solid black 1px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2px;
+    box-shadow: 2px 3px #AAA;
+    
+
+}
+
+
+
+
+
+
+   
